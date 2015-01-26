@@ -26,6 +26,8 @@ Bundle 'Raimondi/delimitMate'
 Bundle 'bling/vim-airline'
 " 主题
 Bundle 'altercation/vim-colors-solarized'
+" tagbar
+Bundle 'majutsushi/tagbar'
 
 
 " 不在Github上的插件，需要写出git全路径,例如：

@@ -36,6 +36,8 @@ map <F7> :SyntasticCheck<cr>
 " 去行尾空格
 map <leader>s :FixWhitespace<cr>
 
+" 打开tagbar
+nnoremap <leader>f :TagbarToggle<cr>
 
 " 新建tab  Ctrl+t
 nnoremap <C-t>     :tabnew<CR>
