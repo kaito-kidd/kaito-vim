@@ -25,7 +25,7 @@
 - `<F7>` 快速语法检测
 
 ## 安装
-	git clone https://github.com/imjustfly/justfly-vimrc.git ~/.vim
+	git clone https://github.com/silverbullet-kaito/kaito-vim.git ~/.vim
 
 	cd ~/.vim
 
