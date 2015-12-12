@@ -13,6 +13,8 @@ Bundle 'gmarik/vundle'
 " Github vim-scripts 用户下的repos,只需要写repos名称
 " 目录结构
 Bundle 'The-NERD-tree'
+" 全局搜索
+Bundle 'ag.vim'
 
 
 " 在Github其他用户下的repos,写出"用户名/repo名"
@@ -28,6 +30,22 @@ Bundle 'bling/vim-airline'
 Bundle 'altercation/vim-colors-solarized'
 " tagbar
 Bundle 'majutsushi/tagbar'
+" 模糊检索文件, 类似于Sublime Ctrl+p
+Bundle 'kien/ctrlp.vim'
+" 模糊检索方法
+Bundle 'tacahiroy/ctrlp-funky'
+" 快速标记跳转(打标签)
+Bundle "kshenoy/vim-signature"
+" 快速注释
+Bundle 'scrooloose/nerdcommenter'
+" 自动补全html标签
+Bundle 'docunext/closetag.vim'
+" 执行当前文件
+Bundle 'thinca/vim-quickrun'
+" 时光机,找回曾经写过的代码
+Bundle 'sjl/gundo.vim'
+" 智能提示
+Bundle 'Valloric/YouCompleteMe'
 
 
 " 不在Github上的插件，需要写出git全路径,例如：
