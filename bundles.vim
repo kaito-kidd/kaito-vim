@@ -46,6 +46,15 @@ Bundle 'thinca/vim-quickrun'
 Bundle 'sjl/gundo.vim'
 " 智能提示
 Bundle 'Valloric/YouCompleteMe'
+" 全局搜索
+Bundle 'dyng/ctrlsf.vim'
+" 区块伸缩
+Bundle 'terryma/vim-expand-region'
+" 多光标选中编辑
+Bundle 'vim-multiple-cursors'
+" 位置跳转
+Bundle 'Lokaltog/vim-easymotion'
+
 
 
 " 不在Github上的插件，需要写出git全路径,例如：
